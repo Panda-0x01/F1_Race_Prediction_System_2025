@@ -52,12 +52,12 @@ The project automatically exports results in **CSV** and **interactive HTML repo
 ## 🧱 Project Structure
 
 F1-Predictor/
-│
-├── f1_predictor.py 
-├── f1_predictions.csv 
-├── f1_predictions.html 
-├── requirements.txt 
-└── README.md 
+│                 <br>
+├── f1_predictor.py      <br>
+├── f1_predictions.csv   <br>
+├── f1_predictions.html  <br>
+├── requirements.txt     <br>
+└── README.md            <br>
 
 
 ---
@@ -189,3 +189,4 @@ Tools Used: Python, Pandas, NumPy, Matplotlib, Scikit-Learn
 This project is released under the MIT License — free for personal and academic use.
 
 Attribution to the original developer is appreciated. ❤️
+
