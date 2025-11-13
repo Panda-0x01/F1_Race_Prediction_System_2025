@@ -176,7 +176,7 @@ You can integrate visualizations via Matplotlib or Plotly.
 
 🏆 Credits
 
-Developer: Drumil Nikhare (HAHAHAHAHA)
+Developer: Panda0x01
 
 Model: Random Forest (Scikit-Learn)
 
@@ -189,5 +189,6 @@ Tools Used: Python, Pandas, NumPy, Matplotlib, Scikit-Learn
 This project is released under the MIT License — free for personal and academic use.
 
 Attribution to the original developer is appreciated. ❤️
+
 
 
