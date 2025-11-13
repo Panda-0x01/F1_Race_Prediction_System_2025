@@ -1,4 +1,4 @@
-# 🏎️ F1 Race Prediction System (2025)
+# F1 Race Prediction System (2025)
 
 
 
@@ -189,4 +189,5 @@ Tools Used: Python, Pandas, NumPy, Matplotlib, Scikit-Learn
 This project is released under the MIT License — free for personal and academic use.
 
 Attribution to the original developer is appreciated. ❤️
+
 
